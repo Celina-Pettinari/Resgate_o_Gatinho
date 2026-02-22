@@ -2,7 +2,6 @@
 Seu gatinho (*) escapou e está com medo, você precisa resgata-lo bloqueando seu caminho (X)  
 
 <br>
-<br>
 
 Este é meu primeiro programa em C e foi feito para estudo da linguagem  
   
@@ -12,7 +11,6 @@ O formato do desenho do tabuleiro foi testado até um quadrado de 101 x 101
 
 não aconselho usar um tabuleiro menor que 5 (por esse motivo, 1 x 1 não foi testado)  
 
-<br>
 <br>
 
 ## Jogar Sem Baixar
