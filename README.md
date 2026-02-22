@@ -2,6 +2,7 @@
 Seu gatinho (*) escapou e está com medo, você precisa resgata-lo bloqueando seu caminho (X)  
 
 <br>
+<br>
 
 Este é meu primeiro programa em C e foi feito para estudo da linguagem  
   
