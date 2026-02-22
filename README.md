@@ -1,3 +1,7 @@
+
+<img width="499" height="340" alt="Captura de tela de 2026-02-22 20-19-49" src="https://github.com/user-attachments/assets/8b72aa66-0c64-4ab9-b53c-d98440134ced" />
+
+
 # Resgate_o_Gatinho
 Seu gatinho (*) escapou e está com medo, você precisa resgata-lo bloqueando seu caminho (X)  
 
