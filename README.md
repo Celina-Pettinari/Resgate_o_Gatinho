@@ -22,3 +22,7 @@ não aconselho usar um tabuleiro menor que 5 (por esse motivo, 1 x 1 não foi te
 1 - acesse: https://onlinegdb.com/7ammdff3f
 2- mova o mouse até a barrinha cinza abaixo do código e quando o mouse mudar de forma, clique, segure e arrate a janela até o topo
 3 - clique em run
+
+<br>
+
+use CTRL C para parar o programa
